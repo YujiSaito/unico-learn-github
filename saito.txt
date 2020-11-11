@@ -1,1 +1,1 @@
-features/detail
+features/detail/PullRequest
